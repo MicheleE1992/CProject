@@ -41,15 +41,5 @@ void addition4(int a, int b){
 	printf("the sum of %d + %d = %d",a,b,sum);
 }
 
-void addition4(int a, int b){
 
-	int sum = a + b;
-	printf("the sum of %d + %d = %d",a,b,sum);
-}
-
-void addition5(int a, int b){
-
-	int sum = a + b;
-	printf("the sum of %d + %d = %d",a,b,sum);
-}
 
