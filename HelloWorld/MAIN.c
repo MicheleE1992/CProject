@@ -28,3 +28,8 @@ void addition2(int a, int b){
 	int sum = a + b;
 	printf("the sum of %d + %d = %d",a,b,sum);
 }
+
+void addition4(int a, int b){
+	int sum = a + b;
+	printf("the sum of %d + %d = %d",a,b,sum);
+}
