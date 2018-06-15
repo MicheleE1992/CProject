@@ -18,4 +18,9 @@ void main(){
 
 }
 
+void addition(int a, int b){
+	int sum = a + b;
+	printf("the sum of %d + %d = %d",a,b,sum);
+}
+
 
