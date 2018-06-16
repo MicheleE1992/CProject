@@ -24,5 +24,6 @@ void yourAge(char name[]);
 void yourName(int i);
 
 
+void yourAge2(char name[]);
 
 #endif /* MAIN_H_ */
