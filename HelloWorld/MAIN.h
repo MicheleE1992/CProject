@@ -13,5 +13,7 @@
 
 void multiplication(int a, int b);
 
+void multiplication2(float a, float b);
+
 
 #endif /* MAIN_H_ */
