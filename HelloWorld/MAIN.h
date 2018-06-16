@@ -13,5 +13,7 @@
 
 void multiplication(int a, int b);
 
+void division(int a, int b);
+
 
 #endif /* MAIN_H_ */
