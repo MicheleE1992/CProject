@@ -56,3 +56,10 @@ void addition6(int a, int b){
 	printf("the sum of %d + %d = %d",a,b,sum);
 }
 
+void printYouName(){
+	char name[20];
+	scanf("%s",name);
+	printf("Your name is %s",name);
+
+}
+
