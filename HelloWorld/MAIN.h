@@ -25,4 +25,7 @@ void yourName(int i);
 
 void yourAge2(char name[]);
 
+void prova(char name[]);
+
+
 #endif /* MAIN_H_ */
