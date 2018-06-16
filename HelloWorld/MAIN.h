@@ -17,7 +17,7 @@ void multiplication(int a, int b);
 
 void division(int a, int b);
 
-void division(double a, double b);
+void division2(double a, double b);
 
 void yourAge(char name[]);
 

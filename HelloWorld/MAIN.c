@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "MAIN.h"
 
 void main(){
 
@@ -15,6 +16,8 @@ void main(){
 
 	printf("Hello World 3\n");
 	printf("Hello World 4\n");
+
+	division(4,2);
 
 }
 
