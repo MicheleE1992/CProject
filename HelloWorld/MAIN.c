@@ -9,7 +9,10 @@
 #include <stdlib.h>
 #include "MAIN.h"
 
-void main(){
+
+void getSimilarity(char *name1, char *name2);
+
+int main(){
 
 	printf("Hello World\n");
 	printf("Hello World 2\n");
@@ -18,7 +21,9 @@ void main(){
 	printf("Hello World 4\n");
 
 	division(4,2);
+	getSimilarity("Michele","Michele");
 
+	return 0;
 }
 
 void addition(int a, int b){
