@@ -72,6 +72,6 @@ void printYouName(){
 }
 
 void metodoX(){
-
+	int i;
 }
 
